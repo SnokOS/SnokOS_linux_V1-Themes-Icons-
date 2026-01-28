@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=SnokOS-Dark-solid
+Comment=A MacOS SnokOS like Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=SnokOS-Dark-solid
+MetacityTheme=SnokOS-Dark-solid
+IconTheme=SnokOS-Dark
+CursorTheme=SnokOS-cursors
+ButtonLayout=close,minimize,maximize:menu
+
